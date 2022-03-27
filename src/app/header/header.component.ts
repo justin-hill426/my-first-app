@@ -5,5 +5,5 @@ import { Component } from "@angular/core";
   selector: 'app-header',
 })
 export class HeaderComponent {
-
+  collapsed = true
 }
